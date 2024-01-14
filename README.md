@@ -1,2 +1,1 @@
-# jenkins_demo
-No jenkin file is added
+This repo dont have jenkins file
